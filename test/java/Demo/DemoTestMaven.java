@@ -8,6 +8,7 @@ public class DemoTestMaven
     {
         Assert.assertTrue(true);
         System.out.println("Maven demo executed");
+        System.out.println("Sending this code to local");
     }
 }
 
